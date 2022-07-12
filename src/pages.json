@@ -28,6 +28,30 @@
         "style": {
           "navigationBarTitleText": "uni-app"
         }
+      },
+      {
+        "path": "pages/mine/mine_beholder/index",
+        "style": {
+          "navigationBarTitleText": "uni-app"
+        }
+      },
+      {
+        "path": "pages/mine/mine_collect/index",
+        "style": {
+          "navigationBarTitleText": "uni-app"
+        }
+      },
+      {
+        "path": "pages/mine/mine_shop/mine_shop_release/index",
+        "style": {
+          "navigationBarTitleText": "uni-app"
+        }
+      },
+      {
+        "path": "pages/mine/mine_shop/mine_shop_myrelease/index",
+        "style": {
+          "navigationBarTitleText": "uni-app"
+        }
       }
 	],
 	"globalStyle": {
