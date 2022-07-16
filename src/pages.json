@@ -1,20 +1,27 @@
 {
 	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
 		{
-			"path": "pages/login/login",
+			"path": "pages/login/index",
 			"style": {
 				"navigationBarTitleText": "用户登录"
 			}
-		},{
+		},
+		{
+			"path": "pages/register/index",
+			"style": {
+				"navigationBarTitleText": "用户注册"
+					}
+		},
+		{
 			"path": "pages/home/index",
 			"style": {
-				"navigationBarTitleText": "uni-app"
+				"navigationBarTitleText": "首页"
 			}
 		},
       {
         "path": "pages/rent/index",
         "style": {
-          "navigationBarTitleText": "uni-app"
+          "navigationBarTitleText": "租房查询"
         }
       },
       {
